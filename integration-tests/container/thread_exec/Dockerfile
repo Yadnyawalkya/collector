@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:22.04
 
 COPY thread_exec.c /thread_exec.c
 
