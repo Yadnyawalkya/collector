@@ -8,3 +8,4 @@ requests==2.31.0
 google-auth
 selinux
 kubernetes
+pyasn1>=0.6.5 # not directly required, pinned by Snyk to avoid a vulnerability
